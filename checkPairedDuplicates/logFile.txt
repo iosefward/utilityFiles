@@ -1,0 +1,354 @@
+
+ 10:21:27 : __main__ : INFO 
+	
+ ============================
+ fastqPairDuplicateCheck v1.0
+ ============================
+
+ Command-line: /homes/gsupipe-x/bodgeScripts/checkPairedDuplicates/fastqPairDuplicateCheck.py /cluster/gsu/data/processed/hiseq/140514_SN7001398_0102_BC42TMACXX/Project_GSU_GS_RNAmethylation/Sample_39_LIB1494_LDI1334/39_LIB1494_LDI1334_CTTGTA_L007_R1_001.fastq.gz /cluster/gsu/data/processed/hiseq/140514_SN7001398_0102_BC42TMACXX/Project_GSU_GS_RNAmethylation/Sample_39_LIB1494_LDI1334/39_LIB1494_LDI1334_CTTGTA_L007_R2_001.fastq.gz -v -l /homes/gsupipe-x/bodgeScripts/checkPairedDuplicates/logFile.txt
+
+ Script Arguments: 
+	pair1     :  /cluster/gsu/data/processed/hiseq/140514_SN7001398_0102_BC42TMACXX/Project_GSU_GS_RNAmethylation/Sample_39_LIB1494_LDI1334/39_LIB1494_LDI1334_CTTGTA_L007_R1_001.fastq.gz
+	pair2     :  /cluster/gsu/data/processed/hiseq/140514_SN7001398_0102_BC42TMACXX/Project_GSU_GS_RNAmethylation/Sample_39_LIB1494_LDI1334/39_LIB1494_LDI1334_CTTGTA_L007_R2_001.fastq.gz
+	--log     :  /homes/gsupipe-x/bodgeScripts/checkPairedDuplicates/logFile.txt
+	--verbose :  True
+
+
+ 10:21:27 : __main__ : INFO 
+	fast reading and indexing both pair files: /cluster/gsu/data/processed/hiseq/140514_SN7001398_0102_BC42TMACXX/Project_GSU_GS_RNAmethylation/Sample_39_LIB1494_LDI1334/39_LIB1494_LDI1334_CTTGTA_L007_R1_001.fastq.gz & /cluster/gsu/data/processed/hiseq/140514_SN7001398_0102_BC42TMACXX/Project_GSU_GS_RNAmethylation/Sample_39_LIB1494_LDI1334/39_LIB1494_LDI1334_CTTGTA_L007_R2_001.fastq.gz
+
+ 10:22:03 : __main__ : INFO 
+		 processed 1E6 reads
+
+ 10:22:38 : __main__ : INFO 
+		 processed 2E6 reads
+
+ 10:23:13 : __main__ : INFO 
+		 processed 3E6 reads
+
+ 10:23:49 : __main__ : INFO 
+		 processed 4E6 reads
+
+ 10:24:24 : __main__ : INFO 
+		 processed 5E6 reads
+
+ 10:25:00 : __main__ : INFO 
+		 processed 6E6 reads
+
+ 10:25:35 : __main__ : INFO 
+		 processed 7E6 reads
+
+ 10:26:11 : __main__ : INFO 
+		 processed 8E6 reads
+
+ 10:26:47 : __main__ : INFO 
+		 processed 9E6 reads
+
+ 10:27:25 : __main__ : INFO 
+		 processed 10E6 reads
+
+ 10:28:01 : __main__ : INFO 
+		 processed 11E6 reads
+
+ 10:28:36 : __main__ : INFO 
+		 processed 12E6 reads
+
+ 10:29:12 : __main__ : INFO 
+		 processed 13E6 reads
+
+ 10:29:48 : __main__ : INFO 
+		 processed 14E6 reads
+
+ 10:30:24 : __main__ : INFO 
+		 processed 15E6 reads
+
+ 10:31:00 : __main__ : INFO 
+		 processed 16E6 reads
+
+ 10:31:35 : __main__ : INFO 
+		 processed 17E6 reads
+
+ 10:32:11 : __main__ : INFO 
+		 processed 18E6 reads
+
+ 10:32:47 : __main__ : INFO 
+		 processed 19E6 reads
+
+ 10:33:28 : __main__ : INFO 
+		 processed 20E6 reads
+
+ 10:34:03 : __main__ : INFO 
+		 processed 21E6 reads
+
+ 10:34:38 : __main__ : INFO 
+		 processed 22E6 reads
+
+ 10:35:13 : __main__ : INFO 
+		 processed 23E6 reads
+
+ 10:35:48 : __main__ : INFO 
+		 processed 24E6 reads
+
+ 10:36:23 : __main__ : INFO 
+		 processed 25E6 reads
+
+ 10:36:58 : __main__ : INFO 
+		 processed 26E6 reads
+
+ 10:37:33 : __main__ : INFO 
+		 processed 27E6 reads
+
+ 10:38:09 : __main__ : INFO 
+		 processed 28E6 reads
+
+ 10:38:44 : __main__ : INFO 
+		 processed 29E6 reads
+
+ 10:39:19 : __main__ : INFO 
+		 processed 30E6 reads
+
+ 10:39:54 : __main__ : INFO 
+		 processed 31E6 reads
+
+ 10:40:36 : __main__ : INFO 
+		 processed 32E6 reads
+
+ 10:41:12 : __main__ : INFO 
+		 processed 33E6 reads
+
+ 10:41:47 : __main__ : INFO 
+		 processed 34E6 reads
+
+ 10:42:22 : __main__ : INFO 
+		 processed 35E6 reads
+
+ 10:42:57 : __main__ : INFO 
+		 processed 36E6 reads
+
+ 10:43:32 : __main__ : INFO 
+		 processed 37E6 reads
+
+ 10:44:07 : __main__ : INFO 
+		 processed 38E6 reads
+
+ 10:44:42 : __main__ : INFO 
+		 processed 39E6 reads
+
+ 10:45:17 : __main__ : INFO 
+		 processed 40E6 reads
+
+ 10:45:53 : __main__ : INFO 
+		 processed 41E6 reads
+
+ 10:46:30 : __main__ : INFO 
+		 processed 42E6 reads
+
+ 10:47:15 : __main__ : INFO 
+		 processed 43E6 reads
+
+ 10:47:50 : __main__ : INFO 
+		 processed 44E6 reads
+
+ 10:48:25 : __main__ : INFO 
+		 processed 45E6 reads
+
+ 10:49:01 : __main__ : INFO 
+		 processed 46E6 reads
+
+ 10:49:36 : __main__ : INFO 
+		 processed 47E6 reads
+
+ 10:50:11 : __main__ : INFO 
+		 processed 48E6 reads
+
+ 10:50:47 : __main__ : INFO 
+		 processed 49E6 reads
+
+ 10:51:22 : __main__ : INFO 
+		 processed 50E6 reads
+
+ 10:51:57 : __main__ : INFO 
+		 processed 51E6 reads
+
+ 10:52:32 : __main__ : INFO 
+		 processed 52E6 reads
+
+ 10:53:07 : __main__ : INFO 
+		 processed 53E6 reads
+
+ 10:53:42 : __main__ : INFO 
+		 processed 54E6 reads
+
+ 10:54:29 : __main__ : INFO 
+		 processed 55E6 reads
+
+ 10:55:04 : __main__ : INFO 
+		 processed 56E6 reads
+
+ 10:55:39 : __main__ : INFO 
+		 processed 57E6 reads
+
+ 10:56:14 : __main__ : INFO 
+		 processed 58E6 reads
+
+ 10:56:50 : __main__ : INFO 
+		 processed 59E6 reads
+
+ 10:57:25 : __main__ : INFO 
+		 processed 60E6 reads
+
+ 10:58:00 : __main__ : INFO 
+		 processed 61E6 reads
+
+ 10:58:35 : __main__ : INFO 
+		 processed 62E6 reads
+
+ 10:59:10 : __main__ : INFO 
+		 processed 63E6 reads
+
+ 10:59:46 : __main__ : INFO 
+		 processed 64E6 reads
+
+ 11:00:21 : __main__ : INFO 
+		 processed 65E6 reads
+
+ 11:00:56 : __main__ : INFO 
+		 processed 66E6 reads
+
+ 11:01:44 : __main__ : INFO 
+		 processed 67E6 reads
+
+ 11:02:19 : __main__ : INFO 
+		 processed 68E6 reads
+
+ 11:02:54 : __main__ : INFO 
+		 processed 69E6 reads
+
+ 11:03:30 : __main__ : INFO 
+		 processed 70E6 reads
+
+ 11:04:05 : __main__ : INFO 
+		 processed 71E6 reads
+
+ 11:04:40 : __main__ : INFO 
+		 processed 72E6 reads
+
+ 11:05:15 : __main__ : INFO 
+		 processed 73E6 reads
+
+ 11:05:50 : __main__ : INFO 
+		 processed 74E6 reads
+
+ 11:06:25 : __main__ : INFO 
+		 processed 75E6 reads
+
+ 11:07:01 : __main__ : INFO 
+		 processed 76E6 reads
+
+ 11:07:36 : __main__ : INFO 
+		 processed 77E6 reads
+
+ 11:08:11 : __main__ : INFO 
+		 processed 78E6 reads
+
+ 11:09:01 : __main__ : INFO 
+		 processed 79E6 reads
+
+ 11:09:36 : __main__ : INFO 
+		 processed 80E6 reads
+
+ 11:10:12 : __main__ : INFO 
+		 processed 81E6 reads
+
+ 11:10:47 : __main__ : INFO 
+		 processed 82E6 reads
+
+ 11:11:22 : __main__ : INFO 
+		 processed 83E6 reads
+
+ 11:11:58 : __main__ : INFO 
+		 processed 84E6 reads
+
+ 11:12:33 : __main__ : INFO 
+		 processed 85E6 reads
+
+ 11:13:08 : __main__ : INFO 
+		 processed 86E6 reads
+
+ 11:13:44 : __main__ : INFO 
+		 processed 87E6 reads
+
+ 11:14:19 : __main__ : INFO 
+		 processed 88E6 reads
+
+ 11:14:54 : __main__ : INFO 
+		 processed 89E6 reads
+
+ 11:15:33 : __main__ : INFO 
+		 processed 90E6 reads
+
+ 11:16:28 : __main__ : INFO 
+		 processed 91E6 reads
+
+ 11:17:03 : __main__ : INFO 
+		 processed 92E6 reads
+
+ 11:17:39 : __main__ : INFO 
+		 processed 93E6 reads
+
+ 11:18:14 : __main__ : INFO 
+		 processed 94E6 reads
+
+ 11:18:49 : __main__ : INFO 
+		 processed 95E6 reads
+
+ 11:19:24 : __main__ : INFO 
+		 processed 96E6 reads
+
+ 11:20:00 : __main__ : INFO 
+		 processed 97E6 reads
+
+ 11:20:35 : __main__ : INFO 
+		 processed 98E6 reads
+
+ 11:21:11 : __main__ : INFO 
+		 processed 99E6 reads
+
+ 11:21:46 : __main__ : INFO 
+		 processed 100E6 reads
+
+ 11:22:22 : __main__ : INFO 
+		 processed 101E6 reads
+
+ 11:22:57 : __main__ : INFO 
+		 processed 102E6 reads
+
+ 11:23:30 : __main__ : INFO 
+		 read 102565765 reads from pair file 1
+
+ 11:23:30 : __main__ : INFO 
+			 found 0 unpaired reads
+
+ 11:23:30 : __main__ : INFO 
+		 read 102565765 reads from pair file 2
+
+ 11:23:30 : __main__ : INFO 
+			 found 0 unpaired reads
+
+ 11:23:30 : __main__ : INFO 
+		 found 44767235 un-duplicated pairs
+
+ 11:23:32 : __main__ : INFO 
+		 found 5830775 duplicated pairs
+
+ 11:23:32 : __main__ : INFO 
+		 duplicate pair fraction is 6.51%
+
+ 11:23:33 : __main__ : INFO 
+			 maximum duplication for any pair: 64988
+
+ 11:23:33 : __main__ : INFO 
+			 mean duplication for duplicated pairs: 9.91
+
+ 11:26:26 : __main__ : INFO 
+	Finished.

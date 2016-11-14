@@ -1,0 +1,10 @@
+/bin/bash: module: line 1: syntax error: unexpected end of file
+/bin/bash: error importing function definition for `module'
+Running on fc-009
+pipelineConfig Loaded!
+The TASK ID of *this* task is : undefined
+Wed Jun  4 10:03:10 BST 2014
+/gridware/sge/default/spool/fc-009/job_scripts/4190512: line 27: =-v -l /homes/gsupipe-x/bodgeScripts/checkPairedDuplicates/logFile.txt: No such file or directory
+/gridware/sge/default/spool/fc-009/job_scripts/4190512: line 28: /homes/gsupipe-x/bodgeScripts/checkPairedDuplicates/bodgefastqPairDuplicateCheck.py: No such file or directory
+Wed Jun  4 10:03:10 BST 2014
+Task Complete!
