@@ -4,6 +4,8 @@
 "------------------------------------------------------------------------------
 "My added stuff
 "set spell				"set spellchecking on
+scriptencoding utf-8
+set encoding=utf-8
 "normal stuff
 set nocompatible        " Disable vi compatibility.
 set nobackup            " Do not keep a backup file.
